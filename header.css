@@ -11,9 +11,10 @@
 
 .header__background {
     background-image: url(../safari.project/img/istockphoto-983236530-170667a.jpg);
+    background-size: cover;
     background-position: center;
-    width: 1200px;
-    height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 .header__nav-list {
