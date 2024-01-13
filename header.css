@@ -1,8 +1,10 @@
 .header__title {
     font-family: "Permanent Marker", cursive;
+    color: var(--text-color1);
 }
 
 .header__paragraph,
 .header__buttons-book {
     font-family: "Titillium Web", sans-serif;
+    color: var(--text-color1)
 }
