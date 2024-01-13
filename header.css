@@ -25,6 +25,13 @@ color: var(--text-color1);
     flex-direction: row;
 }
 
+.header__top {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header__top-logo {
     font-size: 16px;
     max-width: 100%;
