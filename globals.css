@@ -19,3 +19,8 @@ img {
     display: block;
     width: 100%;
 }
+
+.container-background {
+    max-width: 1200px;
+    margin: auto;
+}
