@@ -25,7 +25,7 @@ color: var(--text-color1);
     flex-direction: row;
 }
 
-.images {
+.header__top .a {
     font-size: 16px;
 }
 
