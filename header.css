@@ -16,6 +16,10 @@
     height: 100px;
 }
 
+.header__nav-list {
+    color: var(--text-color1)
+}
+
 .header__top-logo {
     font-size: 16px;
 }
