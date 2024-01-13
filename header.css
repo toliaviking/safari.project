@@ -44,7 +44,7 @@
 }
 
 .header__text {
-    padding: ;
+    padding: 32px;
 }
 
 .header__nav-list {
@@ -64,4 +64,4 @@
     padding: 32px;
     margin-right: 10px;
     border-radius: 25px;
-    width: 203.7px;
+    width: 200px;
