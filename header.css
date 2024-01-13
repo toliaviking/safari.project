@@ -71,3 +71,8 @@
     margin-right: 10px;
     border-radius: 25px;
     width: 200px;
+}
+
+.header__wrapper {
+    padding-left: 32px;
+}
