@@ -27,6 +27,8 @@
     color: var(--text-color1);
     text-decoration: none;
     padding: 10px;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .header .nav__link:hover,
@@ -45,6 +47,10 @@
 
 .header__text {
     padding: 32px;
+}
+
+.header__top {
+    display: flex;
 }
 
 .header__nav-list {
