@@ -3,7 +3,7 @@
     font-size: 65px;
     font-weight: bold;
     color: var(--text-color1);
-    padding: 15px;
+    padding: 155px, 132px;
 }
 
 .header__paragraph {
@@ -11,7 +11,7 @@
     font-size: 19px;
     color: var(--text-color1);
     border-color: var(--border-color);
-    padding: 15px;
+    padding: 155px, 132px;
 }
 
 .header__buttons-book {
