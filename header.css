@@ -19,7 +19,8 @@
     height: 723px;
 }
 
-.nav__item {
+.nav__link,
+.header__top-icons {
     color: var(--text-color1)
 }
 
