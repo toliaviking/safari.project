@@ -1,12 +1,14 @@
 .header__title {
     font-family: "Permanent Marker", cursive;
     color: var(--text-color1);
+    padding: 15px;
 }
 
 .header__paragraph,
 .header__buttons-book {
     font-family: "Titillium Web", sans-serif;
-    color: var(--text-color1)
+    color: var(--text-color1);
+    padding: 15px;
 }
 
 .header__background {
