@@ -83,6 +83,10 @@
     justify-content: center;
 }
 
+.header__buttons {
+    padding: 32px;
+}
+
 .header__wrapper {
     padding-left: 32px;
 }
