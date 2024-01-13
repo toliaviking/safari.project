@@ -1,5 +1,6 @@
 .header__title {
     font-family: "Permanent Marker", cursive;
+    font-size: 65px;
     color: var(--text-color1);
     padding: 15px;
 }
@@ -7,6 +8,7 @@
 .header__paragraph,
 .header__buttons-book {
     font-family: "Titillium Web", sans-serif;
+    font-size: 19px;
     color: var(--text-color1);
     padding: 15px;
 }
@@ -20,7 +22,7 @@
 }
 
 .nav__link,
-.header__top-icons {
+.header__top-icons-link {
     color: var(--text-color1)
 }
 
@@ -31,4 +33,8 @@
 
 .header__content {
     padding: 24px;;
+}
+
+.header__text {
+    padding: ;
 }
