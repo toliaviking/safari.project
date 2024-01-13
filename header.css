@@ -12,6 +12,12 @@ font-weight: bold;
 text-align: center;
 text-transform: uppercase;
 }
+
+.header__paragraph {
+font-size: 19px;
+color: var(--text-color1);
+}
+
 .nav__list {
     display: flex;
     flex-direction: row;
