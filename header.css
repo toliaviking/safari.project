@@ -14,13 +14,6 @@
     padding: 155px, 132px;
 }
 
-.header__buttons-book {
-    font-family: "Titillium Web", sans-serif;
-    font-size: 19px;
-    color: var(--text-color1);
-    padding: 15px;
-}
-
 .header__background {
     background-image: url(../safari.project/img/istockphoto-983236530-170667a.jpg);
     background-size: cover;
@@ -71,6 +64,7 @@
 .header__buttons-book {
     display: flex;
     align-items: center;
+    font-family: "Titillium Web", sans-serif;
     gap: 8px;
     background-color: var(--text-color2);
     text-decoration: none;
