@@ -22,9 +22,16 @@
     height: 723px;
 }
 
-.nav__link,
+.header .nav__link,
 .header__top-icons-link {
-    color: var(--text-color1)
+    color: var(--text-color1);
+    text-decoration: none;
+
+}
+
+.header .nav__link:hover,
+.header__top-icons-link:hover {
+    text-decoration: underline;
 }
 
 .header__top-logo {
@@ -54,7 +61,7 @@
     font-size: 15.4px;
     line-height: 18.48px;
     color: var(--text-color1);
-    padding: 13px 28px;
+    padding: 32px;
     margin-right: 10px;
     border-radius: 25px;
     width: 203.7px;
