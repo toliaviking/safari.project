@@ -80,6 +80,7 @@
     width: 200px;
     height: 30px;
     align-items: center;
+    justify-content: center;
 }
 
 .header__wrapper {
