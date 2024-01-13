@@ -30,6 +30,9 @@ color: var(--text-color1);
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.header__content {
     background-image: url(../safari.project/img/istockphoto-983236530-170667a.jpg);
     background-size: cover;
 }
