@@ -39,6 +39,7 @@
 .header .nav__link:hover,
 .header__top-icons-link:hover {
     text-decoration: underline;
+    color: var(--text-color2);
 }
 
 .header__top-logo {
