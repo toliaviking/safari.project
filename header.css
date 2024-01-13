@@ -8,3 +8,8 @@
     font-family: "Titillium Web", sans-serif;
     color: var(--text-color1)
 }
+
+.header__background {
+    background-image: url(../safari.project/img/istockphoto-983236530-170667a.jpg);
+    background-position: center;
+}
