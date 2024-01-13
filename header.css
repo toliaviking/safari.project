@@ -4,6 +4,7 @@
     font-weight: bold;
     color: var(--text-color1);
     padding: 32px;
+    align-items: center;
 }
 
 .header__paragraph {
@@ -12,6 +13,7 @@
     color: var(--text-color1);
     border-color: var(--border-color);
     padding: 32px;
+    align-items: center;
 }
 
 .header__background {
@@ -76,6 +78,7 @@
     margin-right: 10px;
     border-radius: 30px;
     width: 200px;
+    align-items: center;
 }
 
 .header__wrapper {
