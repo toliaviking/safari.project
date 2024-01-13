@@ -13,6 +13,7 @@
     background-image: url(../safari.project/img/istockphoto-983236530-170667a.jpg);
     background-position: center;
     width: 1200px;
+    height: auto;
 }
 
 .header__nav-list {
@@ -20,6 +21,6 @@
 }
 
 .header__top-logo {
-    width: 16px;
-    height: auto;
+    width: 176px;
+    height: 40px;
 }
