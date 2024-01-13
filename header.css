@@ -29,6 +29,7 @@
     padding: 10px;
     align-items: center;
     justify-content: space-around;
+    list-style-type: none;
 }
 
 .header .nav__link:hover,
