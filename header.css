@@ -17,7 +17,7 @@
     height: 100%;
 }
 
-.header__nav-list {
+.nav__item {
     color: var(--text-color1)
 }
 
