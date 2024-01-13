@@ -14,7 +14,7 @@ text-transform: uppercase;
 }
 .nav__list {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .header .nav__item {
