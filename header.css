@@ -43,7 +43,7 @@
 }
 
 .header__content {
-    padding: 64px;
+    padding: 24px, 32px, 64px;
     justify-content: space-around;
     align-items: center;
 }
