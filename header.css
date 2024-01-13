@@ -40,6 +40,10 @@
     padding: ;
 }
 
+.header__nav-list {
+    display: flex;
+}
+
 .header__buttons-book {
     display: flex;
     align-items: center;
