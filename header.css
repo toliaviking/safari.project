@@ -1,0 +1,27 @@
+.header {
+    background-color: var(--font-color);
+    position: relative;
+    z-index: 1;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.header__title {
+font-size: 3.5rem;
+font-weight: bold;
+text-align: center;
+text-transform: uppercase;
+}
+.nav__list {
+    display: flex;
+    flex-direction: column;
+}
+
+.header .nav__item {
+    color: var(--text-color1);
+    text-decoration: none;
+}
+
+.header .nav__item:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color1: white;
+    --border-color: white;
+    --text0color2: yellow;
+    --font-color: #d62b07;
+    --link-color: blue;
+    font-family: "permanent marker", sans-serif;
+    scroll-behavior: smooth;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
