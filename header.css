@@ -33,9 +33,6 @@
     color: var(--text-color1);
     text-decoration: none;
     padding: 10px;
-    align-items: center;
-    justify-content: space-around;
-    flex: 1;
     list-style-type: none;
 }
 
@@ -59,6 +56,9 @@
 
 .header__top {
     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1;
 }
 
 .header__nav-list {
