@@ -27,7 +27,8 @@ color: var(--text-color1);
 
 .header__top-logo {
     font-size: 16px;
-    max-width: 100%;
+    max-width: 100%
+    display: block;
 }
 
 .header .nav__item {
