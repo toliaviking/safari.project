@@ -9,7 +9,7 @@
 
 :root {
     --text-color1: white;
-    --border-color: white;
+    --border-color: black;
     --text-color2: #f7c801;
     --font-color: #d62b07;
     scroll-behavior: smooth;
