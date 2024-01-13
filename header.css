@@ -25,8 +25,9 @@ color: var(--text-color1);
     flex-direction: row;
 }
 
-.header__top .a {
+.header__top-logo {
     font-size: 16px;
+    max-width: 100%;
 }
 
 .header .nav__item {
