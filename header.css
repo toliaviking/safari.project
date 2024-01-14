@@ -5,8 +5,7 @@
     color: var(--text-color1);
     text-align: left;
     vertical-align: baseline;
-    padding: 32px, 0;
-    margin: 32px, 0;
+    padding: 32px;
 }
 
 .header__paragraph {
@@ -16,8 +15,7 @@
     text-shadow: var(--border-color);
     text-align: left;
     vertical-align: baseline;
-    padding: 32px, 0, 32px;
-    margin: 32px, 0;
+    padding: 32px;
 }
 
 .header__background {
