@@ -67,6 +67,10 @@
     list-style-type: none;
 }
 
+.header__buttons {
+    padding: 32px;
+}
+
 .header__buttons-book {
     display: flex;
     align-items: center;
