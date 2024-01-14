@@ -48,11 +48,6 @@
 }
 
 .header__content {
-    justify-content: space-around;
-    align-items: center;
-}
-
-.header__top {
     display: flex;
     align-items: center;
     justify-content: space-around;
