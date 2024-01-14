@@ -1,10 +1,11 @@
 .header__title {
     font-family: "Permanent Marker", cursive;
-    font-size: 65px;
+    font-size: 56px;
     font-weight: bold;
     color: var(--text-color1);
     padding: 32px;
-    align-items: center;
+    text-align: left;
+    vertical-align: baseline;
 }
 
 .header__paragraph {
@@ -13,7 +14,8 @@
     color: var(--text-color1);
     text-shadow: var(--border-color);
     padding: 32px;
-    align-items: center;
+    text-align: left;
+    vertical-align: baseline;
 }
 
 .header__background {
