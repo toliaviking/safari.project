@@ -38,6 +38,7 @@
 
 .header__top-logo {
     height: 40px;
+    max-width: 100%;
 }
 
 .header__content {
@@ -86,4 +87,14 @@
 
 .header__wrapper {
     padding-left: 32px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.fixed {
+        position: fixed;
+        width: 100%;
 }
