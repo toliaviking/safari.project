@@ -68,7 +68,7 @@
 
 .header__buttons-book {
     display: flex;
-    align-items: center;
+    align-items: left;
     font-family: "Titillium Web", sans-serif;
     gap: 8px;
     background-color: var(--text-color2);
