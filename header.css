@@ -87,10 +87,6 @@
     white-space: nowrap;
 }
 
-.header__buttons {
-    padding: 32px;
-}
-
 .header__wrapper {
     padding-left: 32px;
 }
@@ -98,9 +94,4 @@
 .container {
     max-width: 1200px;
     margin: 0 auto;
-}
-
-.fixed {
-        position: fixed;
-        width: 100%;
 }
