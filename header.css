@@ -78,6 +78,7 @@
     width: 200px;
     height: 30px;
     white-space: nowrap;
+    justify-content: space-around;
 }
 
 .header__wrapper {
