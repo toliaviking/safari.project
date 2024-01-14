@@ -47,6 +47,11 @@
     font-size: 16px;
 }
 
+.header__content {
+    justify-content: space-around;
+    align-items: center;
+}
+
 .header__top {
     display: flex;
     align-items: center;
