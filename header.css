@@ -48,17 +48,13 @@
     align-items: center;
 }
 
-.header__text {
-    padding: 155px, 132px;
-}
-
 .header__top {
     display: flex;
     align-items: center;
     justify-content: space-around;
     flex: 1;
     white-space: nowrap;
-    padding: 32px, 0, 96px
+    padding: 32px, 0, 96px;
 }
 
 .header__nav-list {
